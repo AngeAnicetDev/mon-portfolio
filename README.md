@@ -1,14 +1,68 @@
-# React + Vite
+# 👋 Bonjour, je suis Ange Anicet
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Développeur Web Frontend
 
-Currently, two official plugins are available:
+Bienvenue sur mon portfolio GitHub.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Je suis un développeur web passionné par la création d'applications modernes, rapides et responsives.  
+J'aime transformer des idées en solutions numériques simples et efficaces.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# mon-portfolio
-Mon portfolio de développeur web présentant mes compétences et projets.
+## 🛠️ Technologies utilisées
+
+### Frontend
+- ⚛️ React.js
+- ⚡ Vite
+- 🟨 JavaScript
+- 🎨 CSS
+- 🎬 Framer Motion
+
+### Outils
+- Git & GitHub
+- VS Code
+- npm
+
+---
+
+## 📂 Projet actuel
+
+### 🌐 Mon Portfolio
+
+Portfolio personnel développé avec React permettant de présenter :
+
+- mes compétences
+- mes projets
+- mon parcours
+- mes moyens de contact
+
+Fonctionnalités :
+- ✅ Design responsive
+- ✅ Mode sombre
+- ✅ Animations avec Framer Motion
+- ✅ Formulaire de contact avec EmailJS
+
+---
+
+## 📸 Aperçu
+
+*(Ajoute ici une capture d'écran de ton portfolio plus tard)*
+
+---
+
+## 📚 Projets en développement
+
+🚀 Application de gestion de projets  
+🚀 Chatbot intelligent  
+🚀 Application e-commerce  
+
+---
+
+## 📫 Me contacter
+
+- GitHub : https://github.com/AngeAnicetDev
+- Email : ton-email@example.com
+
+---
+
+⭐ Merci d'avoir visité mon profil !
