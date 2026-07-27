@@ -1,52 +1,174 @@
-.contact-container {
-    text-align: center;
-    padding: 50px;
-  }
-  
-  h2 {
-    font-size: 2rem;
-    margin-bottom: 20px;
-  }
-  
-  form {
-    display: flex;
-    flex-direction: column;
-    max-width: 400px;
-    margin: auto;
-  }
-  
-  label {
-    text-align: left;
-    font-weight: bold;
-    margin-top: 10px;
-  }
-  
-  input,
-  textarea {
-    width: 100%;
-    padding: 10px;
-    margin-top: 5px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  }
-  
-  button {
-    margin-top: 15px;
-    padding: 10px;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-  }
-  
-  button:hover {
-    background-color: #0056b3;
-  }
-  
-  .success-message {
-    color: green;
-    font-weight: bold;
-    margin-bottom: 15px;
-  }
-  
+.contact{
+
+    padding:100px 10%;
+
+}
+
+
+.contact-container{
+
+    display:grid;
+
+    grid-template-columns:1fr 1fr;
+
+    gap:50px;
+
+    align-items:center;
+
+}
+
+
+.contact-info h3{
+
+    font-size:2rem;
+
+    margin-bottom:20px;
+
+}
+
+
+.contact-info p{
+
+    line-height:1.8;
+
+}
+
+
+
+.contact-links{
+
+    margin-top:30px;
+
+}
+
+
+.contact-links p{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:15px;
+
+    margin:20px 0;
+
+    font-weight:600;
+
+}
+
+
+
+.contact-links svg{
+
+    color:#4F46E5;
+
+    font-size:1.4rem;
+
+}
+
+
+
+.contact-form{
+
+    background:rgba(79,70,229,0.08);
+
+    padding:30px;
+
+    border-radius:20px;
+
+}
+
+
+
+form{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:20px;
+
+}
+
+
+
+input,
+textarea{
+
+    width:100%;
+
+    padding:15px;
+
+    border:none;
+
+    border-radius:10px;
+
+    font-size:1rem;
+
+    outline:none;
+
+}
+
+
+
+textarea{
+
+    resize:none;
+
+}
+
+
+
+button{
+
+    padding:15px;
+
+    border:none;
+
+    border-radius:10px;
+
+    background:#4F46E5;
+
+    color:white;
+
+    font-size:1rem;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+
+
+button:hover{
+
+    transform:translateY(-3px);
+
+}
+
+
+
+.success-message{
+
+    color:green;
+
+    font-weight:bold;
+
+    margin-bottom:20px;
+
+}
+
+
+
+@media(max-width:900px){
+
+    .contact-container{
+
+        grid-template-columns:1fr;
+
+    }
+
+}
