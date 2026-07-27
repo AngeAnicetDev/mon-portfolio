@@ -61,7 +61,7 @@ Fonctionnalités :
 ## 📫 Me contacter
 
 - GitHub : https://github.com/AngeAnicetDev
-- Email : ton-email@example.com
+- Email : ibo.ange.dev1@gmail.com
 
 ---
 
